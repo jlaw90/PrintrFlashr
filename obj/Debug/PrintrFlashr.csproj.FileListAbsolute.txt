@@ -1,0 +1,6 @@
+c:\users\james\documents\visual studio 2012\Projects\PrintrFlashr\PrintrFlashr\bin\Debug\PrintrFlashr.exe.config
+c:\users\james\documents\visual studio 2012\Projects\PrintrFlashr\PrintrFlashr\bin\Debug\PrintrFlashr.exe
+c:\users\james\documents\visual studio 2012\Projects\PrintrFlashr\PrintrFlashr\bin\Debug\PrintrFlashr.pdb
+c:\users\james\documents\visual studio 2012\Projects\PrintrFlashr\PrintrFlashr\obj\Debug\PrintrFlashr.csprojResolveAssemblyReference.cache
+c:\users\james\documents\visual studio 2012\Projects\PrintrFlashr\PrintrFlashr\obj\Debug\PrintrFlashr.exe
+c:\users\james\documents\visual studio 2012\Projects\PrintrFlashr\PrintrFlashr\obj\Debug\PrintrFlashr.pdb
